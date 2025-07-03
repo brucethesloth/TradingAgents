@@ -1,11 +1,9 @@
-typing-extensions
-langchain-openai
-langchain-experimental
-pandas
-yfinance
-praw
-feedparser
-stockstats
+typing-extensions==4.14.0
+pandas==2.3.0
+yfinance==0.2.64
+praw==7.8.0
+feedparser==6.0.11
+stockstats==0.6.5
 eodhd
 langgraph
 chromadb
